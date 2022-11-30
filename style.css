@@ -1,0 +1,9 @@
+.Custombtn {
+    width: 23%;
+    margin: 0;
+    color: white;
+}
+.Custombtn:hover{
+    border: 1px solid white;
+   background-color: white;
+}
